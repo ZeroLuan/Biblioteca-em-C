@@ -1,0 +1,9 @@
+# ninja log v6
+12	566	7479469277836119	CMakeFiles/Projeto_Biblioteca.dir/livros.c.obj	6b19622cff0203c3
+7	611	7479469277791886	CMakeFiles/Projeto_Biblioteca.dir/hora.c.obj	2f88f8c8193cd8e8
+19	638	7479469277912556	CMakeFiles/Projeto_Biblioteca.dir/main.c.obj	885b45b176942d50
+2	639	7479469277742584	CMakeFiles/Projeto_Biblioteca.dir/emprestimo.c.obj	1c82659e64f548e2
+97	644	7479469278684642	CMakeFiles/Projeto_Biblioteca.dir/usuarios.c.obj	21810324ca902938
+644	1005	7479469284157882	Projeto_Biblioteca.exe	9b58eee66251e24d
+9	201	7479470190949727	CMakeFiles/Projeto_Biblioteca.dir/main.c.obj	885b45b176942d50
+201	327	7479470192883646	Projeto_Biblioteca.exe	9b58eee66251e24d

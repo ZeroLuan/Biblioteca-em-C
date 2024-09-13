@@ -1,0 +1,3 @@
+C:/Users/a1591/Desktop/Projeto-Biblioteca/cmake-build-debug/CMakeFiles/Projeto_Biblioteca.dir
+C:/Users/a1591/Desktop/Projeto-Biblioteca/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/a1591/Desktop/Projeto-Biblioteca/cmake-build-debug/CMakeFiles/rebuild_cache.dir
