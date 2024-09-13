@@ -164,7 +164,6 @@ int main() {
         case 1:
           system("cls");
           emprestarLivro(livros, numLivros, usuarios, numUsuarios, &emprestimos, &tamanhoEmprestimos, &posicaoVetor_usuarios, &posicaoVetor_livros);
-          //system("cls");
           break;
         case 2:
           system("cls");
